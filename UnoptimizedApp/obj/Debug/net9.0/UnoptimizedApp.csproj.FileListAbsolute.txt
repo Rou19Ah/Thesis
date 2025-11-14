@@ -1,0 +1,15 @@
+C:\Users\Erwin\source\repos\Thesis\UnoptimizedApp\bin\Debug\net9.0\UnoptimizedApp.deps.json
+C:\Users\Erwin\source\repos\Thesis\UnoptimizedApp\bin\Debug\net9.0\UnoptimizedApp.dll
+C:\Users\Erwin\source\repos\Thesis\UnoptimizedApp\bin\Debug\net9.0\UnoptimizedApp.pdb
+C:\Users\Erwin\source\repos\Thesis\UnoptimizedApp\bin\Debug\net9.0\MainApp.dll
+C:\Users\Erwin\source\repos\Thesis\UnoptimizedApp\bin\Debug\net9.0\MainApp.pdb
+C:\Users\Erwin\source\repos\Thesis\UnoptimizedApp\obj\Debug\net9.0\UnoptimizedApp.csproj.AssemblyReference.cache
+C:\Users\Erwin\source\repos\Thesis\UnoptimizedApp\obj\Debug\net9.0\UnoptimizedApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erwin\source\repos\Thesis\UnoptimizedApp\obj\Debug\net9.0\UnoptimizedApp.AssemblyInfoInputs.cache
+C:\Users\Erwin\source\repos\Thesis\UnoptimizedApp\obj\Debug\net9.0\UnoptimizedApp.AssemblyInfo.cs
+C:\Users\Erwin\source\repos\Thesis\UnoptimizedApp\obj\Debug\net9.0\UnoptimizedApp.csproj.CoreCompileInputs.cache
+C:\Users\Erwin\source\repos\Thesis\UnoptimizedApp\obj\Debug\net9.0\Unoptimi.4C3217F8.Up2Date
+C:\Users\Erwin\source\repos\Thesis\UnoptimizedApp\obj\Debug\net9.0\UnoptimizedApp.dll
+C:\Users\Erwin\source\repos\Thesis\UnoptimizedApp\obj\Debug\net9.0\refint\UnoptimizedApp.dll
+C:\Users\Erwin\source\repos\Thesis\UnoptimizedApp\obj\Debug\net9.0\UnoptimizedApp.pdb
+C:\Users\Erwin\source\repos\Thesis\UnoptimizedApp\obj\Debug\net9.0\ref\UnoptimizedApp.dll

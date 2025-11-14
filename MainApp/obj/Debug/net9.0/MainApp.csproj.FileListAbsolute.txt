@@ -1,0 +1,12 @@
+C:\Users\Erwin\source\repos\Thesis\MainApp\bin\Debug\net9.0\MainApp.deps.json
+C:\Users\Erwin\source\repos\Thesis\MainApp\bin\Debug\net9.0\MainApp.dll
+C:\Users\Erwin\source\repos\Thesis\MainApp\bin\Debug\net9.0\MainApp.pdb
+C:\Users\Erwin\source\repos\Thesis\MainApp\obj\Debug\net9.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erwin\source\repos\Thesis\MainApp\obj\Debug\net9.0\MainApp.AssemblyInfoInputs.cache
+C:\Users\Erwin\source\repos\Thesis\MainApp\obj\Debug\net9.0\MainApp.AssemblyInfo.cs
+C:\Users\Erwin\source\repos\Thesis\MainApp\obj\Debug\net9.0\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\Erwin\source\repos\Thesis\MainApp\obj\Debug\net9.0\MainApp.dll
+C:\Users\Erwin\source\repos\Thesis\MainApp\obj\Debug\net9.0\refint\MainApp.dll
+C:\Users\Erwin\source\repos\Thesis\MainApp\obj\Debug\net9.0\MainApp.pdb
+C:\Users\Erwin\source\repos\Thesis\MainApp\obj\Debug\net9.0\ref\MainApp.dll
+C:\Users\Erwin\source\repos\Thesis\MainApp\obj\Debug\net9.0\MainApp.csproj.AssemblyReference.cache
